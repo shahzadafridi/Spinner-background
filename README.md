@@ -1,5 +1,7 @@
 # Spinner-background
 
+In this light example I have shown the way to set background to spinner. Hope this will help.
+
 ## Spinner-bg.xml
 
 ```
