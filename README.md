@@ -43,3 +43,17 @@
 
 ![Image1](https://github.com/shahzadafridi/Spinner-background/blob/master/layout_editor.PNG "Layout Editor")
 
+## Spinner in XML
+
+```
+    <Spinner
+            android:id="@+id/base_station_city_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/spinner_bg"/>
+```
+
+## Spinner 
+
+![Image1](https://github.com/shahzadafridi/Spinner-background/blob/master/20200102_200338.png "Spinner")
