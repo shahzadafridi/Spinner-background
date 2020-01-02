@@ -41,5 +41,5 @@
 
 ## Layout Editor 
 
-[Look like this in Layout editor](https://raw.githubusercontent.com/shahzadafridi/Spinner-background/master/layout_editor.PNG)
+![Image1](https://github.com/shahzadafridi/Spinner-background/blob/master/layout_editor.PNG "Layout Editor")
 
