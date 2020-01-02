@@ -2,7 +2,7 @@
 
 In this light example I have shown the way to set background to spinner. Hope this will help.
 
-## Spinner-bg.xml
+## Spinner_bg.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
