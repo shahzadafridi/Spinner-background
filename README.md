@@ -38,3 +38,8 @@
 </layer-list>
 
 ```
+
+## Layout Editor 
+
+[Look like this in Layout editor](https://raw.githubusercontent.com/shahzadafridi/Spinner-background/master/layout_editor.PNG)
+
